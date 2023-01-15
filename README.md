@@ -2,7 +2,7 @@
 
 
 # A Software Engineer with a background in Petroleum Engineering. 
-I love solving complex data and algorithmic problems and have extensive experience at high-growth startups.
+I love solving complex data and algorithmic problems.
 I a currently undergoing a 1-year intership program with <H4>AlxAfrica on Full-stack Software Engineering.</H4>
 
 🌍 I'm based in Lagos, Nigeria.
