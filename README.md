@@ -3,8 +3,11 @@
 
 # A Software Engineer with a background in Petroleum Engineering. 
 I love solving complex data and algorithmic problems and have extensive experience at high-growth startups.
-I a currently undergoing a 1-year intership program with ##AlxAfrica on ##Full-stack Software Engineering.
+I a currently undergoing a 1-year intership program with 
+<H4>AlxAfrica on Full-stack Software Engineering.</H4>
 
+🌍 I'm based in Lagos, Nigeria.
+📧 Contact me at Joelpaul345@gmail.com
 
 
 # Skills and Expertise
