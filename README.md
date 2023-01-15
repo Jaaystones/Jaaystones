@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Jaaystones
-- 👀 I’m interested in high level programinng language.
-- 🌱 I’m currently learning full stack developement at ALX Africa.
-- 💞️ I’m looking to collaborate on sofware DevOps.
-- 📫 How to reach me on twitter @Jaaystones.
+### Hi there 👋 I'm Joel Osagie Paul 👩‍💻
 
-<!---
-Jaaystones/Jaaystones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# A Software Engineer with a background in Petroleum Engineering. 
+I love solving complex data and algorithmic problems and have extensive experience at high-growth startups.
+I a currently undergoing a 1-year intership program with ##AlxAfrica on ##Full-stack Software Engineering.
+
+
+
+# Skills and Expertise
+<a><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="30" /></a>
+<a><img align="center" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" height="30" /></a>
+Programming Languages: Python (Numpy, Tensorflow, Keras, Scikit-Learn), C, SQL,
