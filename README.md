@@ -1,6 +1,6 @@
-<h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+<h1 style="font-family:script;" align="center"> HI THERE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 , I'm Jaaystones</h1>
-<img align="right" alt="Coding" width="310" height="410" src="[https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F827958712734929167%2F&psig=AOvVaw2HzJC1AXfPwSQNe8a8j9rz&ust=1674251955077000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiI5dDQ1PwCFQAAAAAdAAAAABAJ)">
+<img align="right" alt="Coding" width="300" height="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaystones&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nightburnn&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Jaaystones's github stats" /></p>
