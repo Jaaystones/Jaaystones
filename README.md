@@ -1,6 +1,6 @@
 <h1 style="font-family:script;" align="center"> HI THERE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 , I'm Jaaystones</h1>
-<img align="right" alt="Coding" width="300" height="400" src=![programming](https://user-images.githubusercontent.com/111044396/236078310-f9041d59-6294-44ce-b3fe-29c2c9ff188c.gif)>
+<img align="right" alt="Coding" width="300" height="400" src=https://user-images.githubusercontent.com/111044396/236078310-f9041d59-6294-44ce-b3fe-29c2c9ff188c.gif>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaystones&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaaystones&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Jaaystones's github stats" /></p>
