@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Full stack software engineering**
 
-- 👯 I’m looking to collaborate on **C Language**, **Python**
+- 👯 I’m looking to collaborate on **Java-Script**, **Python**
 
-- 💬 Ask me about **HTML, C, Python**
+- 💬 Ask me about **HTML, Js, Python**
 
 
 </p>
