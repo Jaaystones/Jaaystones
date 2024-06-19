@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Backend Development**, **Cloud Computing**
 
 - 🌱 I’m currently learning **Full stack software engineering**
 
