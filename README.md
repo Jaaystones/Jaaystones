@@ -1,8 +1,8 @@
-# 👋 Hi, my name is Joel Osagie Paul (aka Jaaystones)
+# 👋 Hi, my name is Joel Osagie Paul (Jaaystones)
 
 ## 🚀 Backend Engineer | Cloud Specialist | DevOps Enthusiast
 
-I'm a backend-focused full stack engineer with 4+ years of experience building scalable APIs, cloud-native applications, and resilient microservices. I specialize in:
+I'm a backend-focused full-stack engineer with 4+ years of experience building scalable APIs, cloud-native applications, and resilient microservices. I specialize in:
 - ⚙️ Backend systems (Node.js, Express, Python/Flask)
 - ☁️ Cloud infrastructure (AWS, Docker, Cloudinary)
 - 🔐 Authentication, Redis caching, SQL & NoSQL databases
@@ -69,12 +69,6 @@ Cloud-native architectures & multi-tier applications using Docker & AWS
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaaystones&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaystones&layout=compact&theme=tokyonight" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jaaystones&theme=tokyonight&mode=weekly" />
-</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaystones&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaaystones&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Jaaystones's github stats" /></p>
