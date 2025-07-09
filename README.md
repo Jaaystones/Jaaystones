@@ -54,7 +54,7 @@ Cloud-native architectures & multi-tier applications using Docker & AWS
 | Project | Description | Live |
 |--------|-------------|------|
 | **Paul Joel Portfolio** | Personal portfolio showcasing projects, skills, and resume. Built with React & hosted on Render. | [🌐 Visit](https://paul-joel-portfolio.onrender.com) |
-| **Task Manager API** | Node.js/Express REST API with JWT Auth, Redis caching, and MySQL. Built for scalable team-based workflows. | *Private / In Progress* |
+| **Task Manager APP** | Node.js/Express REST API with JWT Auth, Redis caching, and MySQL. Built for scalable team-based workflows. | [🌐 Visit](https://stonegrowth.onrender.com/) |
 | **Reminder App (3-tier Docker architecture)** | Microservice setup with React frontend, Node.js API, and MySQL DB — all containerized using Docker. | *Local only* |
 | **E-Africa Jobs Platform** | Platform to connect remote African talent with global job opportunities. Built with Flask and PostgreSQL. | *Coming soon* |
 
@@ -69,6 +69,12 @@ Cloud-native architectures & multi-tier applications using Docker & AWS
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaaystones&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaystones&layout=compact&theme=tokyonight" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jaaystones&theme=tokyonight&mode=weekly" />
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaystones&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaaystones&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Jaaystones's github stats" /></p>
