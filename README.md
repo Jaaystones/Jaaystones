@@ -75,6 +75,8 @@ Cloud-native architectures & multi-tier applications using Docker & AWS
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaystones&layout=compact&theme=tokyonight" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Jaaystones&theme=tokyonight&mode=weekly" />
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaystones&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaaystones&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Jaaystones's github stats" /></p>
 
 ---
 
