@@ -54,9 +54,9 @@ Cloud-native architectures & multi-tier applications using Docker & AWS
 | Project | Description | Live |
 |--------|-------------|------|
 | **Paul Joel Portfolio** | Personal portfolio showcasing projects, skills, and resume. Built with React & hosted on Render. | [🌐 Visit](https://paul-joel-portfolio.onrender.com) |
-| **Task Manager APP** | Node.js/Express REST API with JWT Auth, Redis caching, and MySQL. Built for scalable team-based workflows. | [🌐 Visit](https://stonegrowth.onrender.com/) |
+| **SPOTTER LOGISTICS** | Node.js/Express REST API with JWT Auth, Redis caching, and MySQL. Built for logistics companies to track movement. | [🌐 Visit](https://spotter-client.onrender.com/) |
 | **Reminder App (3-tier Docker architecture)** | Microservice setup with React frontend, Node.js API, and MySQL DB — all containerized using Docker. | *Local only* |
-| **E-Africa Jobs Platform** | Platform to connect remote African talent with global job opportunities. Built with Flask and PostgreSQL. | *Coming soon* |
+| **E-Africa Jobs Platform** | A platform that connects remote African talent with global job opportunities. Built with Flask and PostgreSQL. | [🌐 Visit](https://www.eafricaservices.com) |
 
 ---
 
