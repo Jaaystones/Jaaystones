@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Joel Osagie Paul (Jaaystones)
 
-## 🚀 Backend Engineer | Cloud Specialist | DevOps Enthusiast
+## 🚀 Full-Stack Software Engineer | Cloud Specialist | DevOps Enthusiast
 
 I'm a backend-focused full-stack engineer with 4+ years of experience building scalable APIs, cloud-native applications, and resilient microservices. I specialize in:
 - ⚙️ Backend systems (Node.js, Express, Python/Flask)
